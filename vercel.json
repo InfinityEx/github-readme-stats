@@ -2,7 +2,8 @@
   "functions": {
     "api/*.js": {
       "memory": 128,
-      "maxDuration": 30
+      "maxDuration": 8
+      //recent value: "maxDuration": 30
     }
   },
   "redirects": [
